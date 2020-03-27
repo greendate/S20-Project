@@ -167,3 +167,9 @@ a {
   height: 20px;
   width: 20px;
 }
+
+.logo {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
